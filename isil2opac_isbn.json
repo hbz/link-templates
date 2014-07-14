@@ -208,7 +208,7 @@
     "DE-294-70": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient/start.do?Query=0540=%22{isbn}%22",
     "DE-294-71": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient/start.do?Query=0540=%22{isbn}%22",
     "DE-294-140": "https://opac.ub.ruhr-uni-bochum.de/webOPACClient/start.do?Query=0540=%22{isbn}%22",
-    "DE-361": "http://katalogplus.ub.uni-bielefeld.de/cgi-bin/new_search.cgi?kat1=si&var1={isbn}&kat2=ti&var2=&kat3=aup&var3=&bestand=lok&sprache=GER&art=f&fsubmit=1&vr=1&opt=&pagesize=10",
+    "DE-361": "http://katalogplus.ub.uni-bielefeld.de/cgi-bin/new_search.cgi?kat1=is&var1={isbn}&kat2=ti&var2=&kat3=aup&var3=&bestand=lok&sprache=GER&art=f&fsubmit=1&vr=1&opt=&pagesize=10",
     "DE-464": "http://primo.ub.uni-due.de/primo_library/libweb/action/dlSearch.do?vid=UDE&institution=UDE&search_scope=localude&bulkSize=10&lang=ger&indx=1&onCampus=false&query=any,contains,{isbn}",
     "DE-465": "http://primo.ub.uni-due.de/primo_library/libweb/action/dlSearch.do?vid=UDE&institution=UDE&search_scope=localude&bulkSize=10&lang=ger&indx=1&onCampus=false&query=any,contains,{isbn}",
     "DE-1393": "https://katalog.hs-ruhrwest.de/webOPACClient.nmbsis/start.do?Query=0540=%22{isbn}%22",
