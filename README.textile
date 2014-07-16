@@ -1,3 +1,10 @@
 h1. Link Templates
 
 Templates for linking into catalogues of hbz union members and more.
+
+h2. How to Use the Templates
+
+The templates adhere to "RFC6570":http://tools.ietf.org/html/rfc6570 and map an ISIL to the URI template. These can be
+processed in most modern "programming languages":https://code.google.com/p/uri-templates/wiki/Implementations.
+
+*Please feel free to modify these lists and to add new entries to them by forking this repository and sending us pull requests!*
