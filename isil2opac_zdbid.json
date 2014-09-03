@@ -65,7 +65,6 @@
     "DE-829": "http://seth7.hs-niederrhein.de/webOPACClient/start.do?Query=-1=%22{zdbid}%22",
     "DE-832": "https://katalog.bibl.fh-koeln.de/webOPACClient/start.do?Query=-1=%22{zdbid}%22",
     "DE-836": "https://hb063.fh-muenster.de/webOPACClient/start.do?Query=-1=%22{zdbid}%22",
-    "DE-987": "http://www.hs-koblenz.de/webOPACClient-Koblenz/start.do?Query=-1=%22{zdbid}%22",
     "DE-1044": "https://bib-sisis.bib.hochschule-bonn-rhein-sieg.de/webOPACClient/start.do?Query=-1=%22{zdbid}%22",
     "DE-1393": "https://katalog.hs-ruhrwest.de/webOPACClient.nmbsis/start.do?Query=-1=%22{zdbid}%22",
     "DE-1393-BOT": "https://katalog.hs-ruhrwest.de/webOPACClient.nmbsis/start.do?Query=-1=%22{zdbid}%22",
