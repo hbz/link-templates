@@ -147,7 +147,7 @@
     "DE-6-N": "http://disco.uni-muenster.de/primo_library/libweb/action/dlSearch.do?vid=ulb&institution=ulb&search_scope=ULBMS&bulkSize=10&lang=ger&indx=1&onCampus=false&query=any,contains,{isbn}",
     "DE-6-P": "http://disco.uni-muenster.de/primo_library/libweb/action/dlSearch.do?vid=ulb&institution=ulb&search_scope=ULBMS&bulkSize=10&lang=ger&indx=1&onCampus=false&query=any,contains,{isbn}",
     "DE-6-Z": "http://disco.uni-muenster.de/primo_library/libweb/action/dlSearch.do?vid=ulb&institution=ulb&search_scope=ULBMS&bulkSize=10&lang=ger&indx=1&onCampus=false&query=any,contains,{isbn}",
-    "DE-61": "http://katalog.ulb.hhu.de/primo_library/libweb/action/dlSearch.do?vid=DUE_ULB&search_scope=DUE_DUE01&bulkSize=10&lang=ger&indx=1&onCampus=false&query=any,contains,{isbn}&institution=DUE_ULB",
+    "DE-61": "https://katalog.ulb.hhu.de/Search/Results?join=AND&bool0%5B%5D=AND&type0%5B%5D=ISN&lookfor0%5B%5D={isbn}",
     "DE-107": "https://kat.lbz-rlp.de/webOPACClient.lbzsis/start.do?Query=0540=%22{isbn}%22",
     "DE-290": "https://www.ub.tu-dortmund.de/webOPACClient/start.do?Query=0540=%22{isbn}%22",
     "DE-294": "https://suchen.ub.rub.de/isbn/{isbn}",
