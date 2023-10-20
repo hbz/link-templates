@@ -1,6 +1,7 @@
+h1. Link Templates
+
 *This repository is deprecated. It is replaced by the lookup tables here: https://github.com/hbz/lookup-tables/tree/master/data/opacLinks*
 
-h1. Link Templates
 
 Templates for linking into catalogues of hbz union members and more.
 
